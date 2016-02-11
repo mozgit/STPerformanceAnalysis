@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By PoolXMLCatalog.py -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+
+<File ID="B292E6AD-B076-E411-83B0-02163E00EA83">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-123-e.gridka.de:1094/pnfs/gridka.de/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000049_1.dimuon.dst" se="GRIDKA-DST"/>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000049_1.dimuon.dst" se="CERN-DST-EOS"/>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd8.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000049_1.dimuon.dst" se="RRCKI-DST"/>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000049_1.dimuon.dst?svcClass=lhcbDst" se="RAL-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000049_1.dimuon.dst"/>
+   </logical>
+</File>
+<File ID="74D08A88-5F76-E411-AEDB-E0CB4E19F9A5">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000035_1.dimuon.dst" se="CNAF-DST"/>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000035_1.dimuon.dst" se="CERN-DST-EOS"/>
+      <pfn filetype="ROOT_All" name="root://tbit00.nipne.ro:1094//dpm/nipne.ro/home/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000035_1.dimuon.dst" se="NIPNE-07-DST"/>
+      <pfn filetype="ROOT_All" name="root://se.cis.gov.pl:1094//dpm/cis.gov.pl/home/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000035_1.dimuon.dst" se="NCBJ-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000035_1.dimuon.dst"/>
+   </logical>
+</File>
+<File ID="AAA90005-4F76-E411-AD98-00259073E3DA">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://f01-080-125-e.gridka.de:1094/pnfs/gridka.de/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000007_1.dimuon.dst" se="GRIDKA-DST"/>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000007_1.dimuon.dst" se="CNAF-DST"/>
+      <pfn filetype="ROOT_All" name="root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000007_1.dimuon.dst" se="CERN-DST-EOS"/>
+      <pfn filetype="ROOT_All" name="root://bohr3226.tier2.hep.manchester.ac.uk:1094//dpm/tier2.hep.manchester.ac.uk/home/lhcb/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000007_1.dimuon.dst" se="Manchester-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000007_1.dimuon.dst"/>
+   </logical>
+</File>
+<File ID="3007AEC3-4F76-E411-9859-E0CB4E19F9A3">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000021_1.dimuon.dst" se="CNAF-DST"/>
+      <pfn filetype="ROOT_All" name="root://lhcb-sdpd13.t1.grid.kiae.ru.:1094/t1.grid.kiae.ru/data/lhcb/lhcbdisk/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000021_1.dimuon.dst" se="RRCKI-DST"/>
+      <pfn filetype="ROOT_All" name="root://clhcbdlf.ads.rl.ac.uk//castor/ads.rl.ac.uk/prod/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000021_1.dimuon.dst?svcClass=lhcbDst" se="RAL-DST"/>
+      <pfn filetype="ROOT_All" name="root://heplnx233.pp.rl.ac.uk:1094/pnfs/pp.rl.ac.uk/data/lhcb/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000021_1.dimuon.dst" se="RAL-HEP-DST"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision12/DIMUON.DST/00041836/0000/00041836_00000021_1.dimuon.dst"/>
+   </logical>
+</File>
+
+</POOLFILECATALOG>
