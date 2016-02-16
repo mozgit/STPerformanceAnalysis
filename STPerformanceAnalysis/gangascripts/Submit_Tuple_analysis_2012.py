@@ -17,7 +17,7 @@ j.application.platform = "x86_64-slc6-gcc49-opt"
 
 j.name = "12_T"
 j.comment = "2012 data, Tuples"
-j.inputdata = DaVinci().readInputData(local_dir + '/../data/2012/AllData_2012.py')
+j.inputdata = DaVinci().readInputData(local_dir + '/../data/2012/prod/AllData_2012.py')
 
 
 j.do_auto_resubmit = True

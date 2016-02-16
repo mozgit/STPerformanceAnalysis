@@ -12,12 +12,12 @@ import os
 local_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 home_dir = "/afs/cern.ch/user/i/ikomarov/"
 
-j = Job(application=DaVinci(version = 'v38r1p1', optsfile=local_dir + "/../dvscripts/Tuple_analysis_2015.py", user_release_area=home_dir+'cmtuser/'))
+j = Job(application=DaVinci(version = 'v38r1p1', optsfile=local_dir + "/../dvscripts/Tuple_analysis_2015_sim.py", user_release_area=home_dir+'cmtuser/'))
 j.application.platform = "x86_64-slc6-gcc49-opt"
 
-j.name = "15_T"
-j.comment = "2015 data, Tuples"
-j.inputdata = DaVinci().readInputData(local_dir + '/../data/2015/prod/AllData_2015.py')
+j.name = "15_T_MC"
+j.comment = "2015 MC, Tuples"
+j.inputdata = DaVinci().readInputData(local_dir + '/../sim/2015/prod/MC201524142001Beam6500GeV-Jun2015-MagUp-Nu16-Pythia6Sim08hTrig0x40f9014eReco15emTurbo01emDST.py')
 
 
 j.do_auto_resubmit = True
